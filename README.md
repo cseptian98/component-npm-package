@@ -1,0 +1,1 @@
+"# component-npm-package" 
